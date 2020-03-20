@@ -16,4 +16,16 @@ $toevoegen = array(
 array_merge($platlist, $toevoegen);
 array_walk_recursive($platlist, "printArray");
 
-?>
+//$eerste = ["Hiphop","John williams","My girl"];
+//$tweede = ["Jazz","John Coltrane", "New york"];
+//$derde = ["Hiphop","Shakira","Obsession"];
+//
+//$eerste1 = implode("|", $eerste);
+//echo "<br>Track 0: $eerste1";
+//
+//$tweede1 = implode("|", $tweede);
+//echo "<br>Track 1: $tweede1";
+//
+//$derde1 = implode("|", $derde);
+//echo "<br>Track 2: $derde1";
+
